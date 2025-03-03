@@ -1,3 +1,3 @@
 # Portfolio
 
-[work in progress](https://github.com/ilmarioivanen/portfolio)
+[work in progress](https://ilmarioivanen.github.io/portfolio)
